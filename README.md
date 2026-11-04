@@ -12,3 +12,4 @@
 - [dense-tungsten-cubes](https://github.com/donth77/dense-tungsten-cubes) — browser physics toy: drop, weigh, and float dense metal cubes
 - [snes-homebrew](https://github.com/donth77/snes-homebrew) — original SNES examples in C with PVSnesLib
 - [vibez.surf](https://github.com/donth77/vibez.surf) — Audiosurf-style rhythm game that turns any song into a 3D track
+- [faceon-meetings](https://github.com/donth77/faceon-meetings) - Free, open-source video meetings
